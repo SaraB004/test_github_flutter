@@ -48,7 +48,8 @@ class _MyHomePageState extends State<MyHomePage> {
 
         backgroundColor: Theme.of(context).colorScheme.inversePrimary,
 
-        title: Text("Customers"),
+        title: Text("Flights"),
+
       ),
       body: Center(
 
